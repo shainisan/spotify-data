@@ -11,4 +11,9 @@ First, we'll have to sign up at the official Spotify Developer Portal, head over
 We'll use Spotipy, which is a  lightweight Python library for the Spotify Web API. 
 
 ## Some examples
-
+![1](https://github.com/shainisan/spotify-data/blob/main/download%20(1).png?raw=true)
+![2](https://github.com/shainisan/spotify-data/blob/main/download%20(2).png?raw=true)
+![3](https://github.com/shainisan/spotify-data/blob/main/download%20(3).png?raw=true)
+![4](https://github.com/shainisan/spotify-data/blob/main/download%20(4).png?raw=true)
+![5](https://github.com/shainisan/spotify-data/blob/main/download%20(5).png?raw=true)
+![6](https://github.com/shainisan/spotify-data/blob/main/%D7%A6%D7%99%D7%9C%D7%95%D7%9D%20%D7%9E%D7%A1%D7%9A%202023-03-04%20185818.jpg?raw=true)
